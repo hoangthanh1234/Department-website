@@ -1,0 +1,10 @@
+ a {color: #09f;}
+ a:hover {text-decoration: none;}
+ #back_to_camera {background: rgba(255,255,255,.9);clear: both;display: block;height: 40px; line-height: 40px; padding: 20px;z-index: 1;}
+.fluid_container {height: 100%;}
+#camera_wrap_4 {bottom: 0;height: 100%;left:0;margin-bottom: 0!important;position:relative;right: 0;top: 0;}
+.camera_thumbs {margin-top: -100px;}
+.camera_thumbs_cont {border-radius: 0;-moz-border-radius: 0;-webkit-border-radius: 0;}
+.camera_overlayer {opacity: .1; }
+.camera_pag{display:none;}
+.camera_caption{text-align:center;}

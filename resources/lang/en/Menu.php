@@ -1,0 +1,30 @@
+<?php
+
+return [
+	'trangchu' => 'Home',
+	'gioithieu' => 'About us',
+	'bomon' => 'Department',
+	'bomon2' => 'Units',
+	'daotao'=> 'Study programs',
+	'tuyensinh' => 'Admissions',
+	'sinhvienset' => 'SET Student',
+	'sinhvien' => 'Student',
+	'tintuc' => 'News',	
+	'hoidap' => 'Q & A',
+	'ktcn' => 'Engineering and Technology',
+	'ngonngu' => 'Languges',
+	'chuongtrinh' => 'Programs',
+	'yeucau' => 'Requirements',
+	'moitruong' => 'Environment',
+	'dangky' => 'Create a profile',
+	'nhansu' => 'People',
+	'cuusinhvien' =>'Alumni',
+	'tkb' => 'Schedule',
+	'ketquathi' => 'Exam result',
+	'thongbaomoi' => 'Announcement',
+	'bantuvan' => 'Advisory Board',	
+	'nghiencuu' => 'Research',
+	'detai' => 'Project',
+	'duan' => 'International Project',
+	'enroll'=>'Enrollment-Graduation'
+];
